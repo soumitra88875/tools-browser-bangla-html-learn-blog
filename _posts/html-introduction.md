@@ -2,7 +2,7 @@
 layout: post
 title: "👉 “HTML কী? আগুনের সতর্কবার্তা থেকে প্রেমের বার্তা পর্যন্ত – Tag, Magic আর Real-Life উদাহরণ দিয়ে HTML বুঝুন সহজভাবে”"
 date: 2026-01-06 16:10:00 +0530
-thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/read-only-mode/post3_thumbnail.png
+thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-html/image1.png
 ---
 
 # 🌍 HTML Introduction – যেই ভাষায় পুরো ইন্টারনেট কথা বলে
