@@ -2,7 +2,6 @@
 layout: post
 title: "<!DOCTYPE html> কী? কেন এই এক লাইন ছাড়া কোনো ওয়েবসাইট ঠিকভাবে কাজ করে না – ব্রাউজার, ডিজাইন ও ভবিষ্যৎ ওয়েবের সম্পূর্ণ গোপন রহস্য বাংলায়”
 date: 2026-01-05 16:10:00 +0530
-pinned: true
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-html/image2.png
 ---
 
