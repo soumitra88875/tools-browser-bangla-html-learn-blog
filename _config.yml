@@ -13,8 +13,3 @@ paginate_path: "/page:num/"
 plugins:
   - jekyll-paginate
 
-  kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  html_to_native: true
