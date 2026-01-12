@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Meta Tag Explained in Bangla — Google, SEO আর Website এর মগজ কীভাবে কাজ করে 🧠"
-date: 2026-01-10 16:10:00 +0530
-thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-html/image-meta.png
+title: "Meta Tag না জানলে Website বানানো বৃথা — Google, Click আর Ranking-এর পুরো খেলা এই এক জায়গায় 📈. Meta tag বুঝুন সহজ ভাষায়।"
+date: 2026-01-03 16:10:00 +0530
+thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/learn-html/image5.png
 ---
-
-# 🧠 Meta Tag — ওয়েবসাইটের অদৃশ্য মগজ
 
 অনেকেই মনে করে  
 **Meta Tag মানে কিছু লুকানো কোড।**
